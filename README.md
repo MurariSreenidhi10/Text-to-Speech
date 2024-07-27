@@ -1,1 +1,2 @@
-# Text-to-Speech
+# Text-to-Speech website
+The main goal of the website is to convert input text into speech which helps the user to read e-book using this system. Text to speech technology reads aloud digital text. It converts the text content entered by the user into speech with a click of a button. It enables the user to copy text into clipboard and converts the selected text to audio, making content more engaging and accessible to a wider audience. It uses the speech Synthesis API of the global window object and the Speech Synthesis Utterance to create a utterance of the entered text.
